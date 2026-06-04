@@ -36,7 +36,15 @@ B.Tech CSE Student
 
 ## Preview
 
-Open `portfolio.html` in your browser to view the portfolio website.
+Open `index.html` in your browser to view the portfolio website.
+
+## Live Demo
+
+View the live website here:
+
+https://6a219915c41cf800965576c2--musical-pika-66b099.netlify.app/
+
+
 
 ---
 
