@@ -36,7 +36,7 @@ B.Tech CSE Student
 
 ## Preview
 
-Open `index.html` in your browser to view the portfolio website.
+Open `portfolio.html` in your browser to view the portfolio website.
 
 ---
 
