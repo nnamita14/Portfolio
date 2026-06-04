@@ -17,15 +17,6 @@ A responsive personal portfolio website built using HTML and CSS to showcase my 
 * HTML5
 * CSS3
 
-## Project Structure
-
-portfolio/
-│
-├── index.html
-├── portfolio.css
-├── Namita.jpeg
-└── README.md
-
 ## Purpose
 
 This project was created to practice front-end web development and build a professional online portfolio.
